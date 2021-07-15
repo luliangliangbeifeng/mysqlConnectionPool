@@ -1,0 +1,7 @@
+﻿  connectionpool.cpp
+C:\Users\sys\Desktop\华泰材料\project_mysqlconnectionpool\connectionpool.cpp(105,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\sys\Desktop\华泰材料\project_mysqlconnectionpool\connectionpool.cpp(109,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  connection_mysql.cpp
+  main.cpp
+  正在生成代码...
+  project_mysqlconnectionpool.vcxproj -> C:\Users\sys\Desktop\华泰材料\project_mysqlconnectionpool\x64\Debug\project_mysqlconnectionpool.exe

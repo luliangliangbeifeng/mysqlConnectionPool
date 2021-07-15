@@ -1,0 +1,2 @@
+C:\Users\sys\Desktop\华泰材料\project_mysqlconnectionpool\x64\Debug\project_mysqlconnectionpool.exe
+C:\Users\sys\Desktop\华泰材料\project_mysqlconnectionpool\x64\Debug\project_mysqlconnectionpool.pdb
